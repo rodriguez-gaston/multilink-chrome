@@ -1,11 +1,11 @@
 {
-  "name": "React Chrome Extension",
-  "description": "Base Level Extension",
+  "name": "MultiLink | Open WA chats",
+  "description": "Open WhatsApp chat with one click. No need to add the number to contacts!",
   "version": "1.0.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
-    "default_title": "Open the popup"
+    "default_title": "Open chats"
   },
   "icons": {
     "16": "logo192.png",
